@@ -1,0 +1,39 @@
+body
+{
+    margin: 0px;
+}
+#top
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    background-color: #b6e9be;
+    flex-wrap: wrap;
+}
+.oferta
+{
+    width: 50%;
+    border: #8b8585 solid 0.5px;
+    margin: 1%;
+    border-radius: 44px;
+    display: flex;
+}
+.oferta > img
+{
+    width: 25vw;
+    height: 40vh;
+    padding: 1%;
+    border-radius: 50px;
+}
+.opis
+{
+    align-items: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.opis > p
+{
+    width: 70%;
+}
