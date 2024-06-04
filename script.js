@@ -1,8 +1,3 @@
-// function Oferta(miasto, kraj, opis, miejsca, cena)
-// {
-//     this.miasto = miasto;
-//     this.kraj = kraj;
-//     this.opis = opis;
-//     this.miejsca = miejsca;
-//     this.cena = cena;
-// }
+var bestPhoto = document.querySelector('#bestPhoto');
+console.log(bestPhoto);
+bestPhoto.src = 'test.png';

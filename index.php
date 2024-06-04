@@ -10,6 +10,9 @@
 <body>
     <div id="top">NAZWA BIURA PODRÓŻY</div>
     <div id="main">
+    <div id="best">
+        <img id="bestPhoto" src="">
+    </div>
     <?php
         include 'ladujDane.php';
     ?>
